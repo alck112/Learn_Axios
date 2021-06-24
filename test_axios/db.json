@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "title": "good day",
+      "author": "good",
+      "id": 1
+    },
+    {
+      "title": "hello",
+      "author": "yo",
+      "id": 2
+    },
+    {
+      "title": "fffkkk",
+      "author": "chan",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
